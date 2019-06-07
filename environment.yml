@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - python=3.7
+  - requests_download
+  - tensorflow=1.13
+  - pip:
+    - gpt-2-simple
