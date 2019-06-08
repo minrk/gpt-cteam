@@ -31,17 +31,13 @@ jerry: "collective torment is a very powerful spell
 `generate('amy:', length=100)`
 
 ```
-a: (laughs)
+amy: (laughs)
 amy: "i think she likes us."
 jerry: yeah.
 kate: "i think you like us!"
 amy: i just get excited!
 (laughter)
-amy: "i think i'm smart, ugly, and very sexy."
-jerry: she looks like she's trying to get
-jerry: yeah. she's just sort of gliding across the dock
-amy: like her bearings just straighten out?
-jerry
+amy: "i think i'm smart
 ```
 
 ```
@@ -59,15 +55,6 @@ kate: "they're not friends of ours."
 amy: "well,
 ```
 
-```
-amy: (laughs)
-amy: "i think she likes us."
-jerry: yeah.
-kate: "i think you like us!"
-amy: i just get excited!
-(laughter)
-amy: "i think i'm smart, ugly, and very sexy."
-```
 
 ```
 amy: I do a bite...
@@ -104,4 +91,39 @@ jerry: and it's so happening.
 kate: sixth edition is going to be out in a couple of weeks.
 jerry: so you're going to go for it?
 kate: yeah!
+```
+
+```
+jerry: you will also be conferring with your great-grandson, so to speak.
+jerry: i will, among other things,
+jerry: confer with this great-grandson, very quietly,
+```
+
+
+```
+kris: i'm always rolling properly.
+      i've always been good at my job.
+```
+
+`generate("amy: all centaurs are")`
+
+```
+amy: all centaurs are missing?
+kate: yeah.
+kris: some centaurs. barf.
+amy: centaurs is barf.
+kate: centaurs is barf.
+kris: would you ever read the book of centaurs?
+jerry: oh
+```
+
+```
+amy: all centaurs are centaurs
+amy: i know! i know!
+jerry: absolutely. so this is not a centaur.
+       a centaur?
+jerry: this is a stone dead.
+       no, this is a bizarre
+       cavern that has just been ploughed into
+       by one hand.
 ```

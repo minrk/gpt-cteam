@@ -9,3 +9,23 @@ For when you have run out of real episodes, and need to generate an infinite num
 Model trained [on colaboratory](https://colab.research.google.com/drive/1Up9uwclJ4wYm9MFJhoI0_BNBqPeuY-vb), derived from [this example](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce) by [Max Woolf](http://minimaxir.com/).
 
 Training data was available manual transcripts from YouTube videos for [The "C" Team](http://www.acq-inc.com/cteam), which is only the first six episodes, plus Anchors Aweigh part 2.
+
+
+Results include totally true facts:
+
+```
+kris: i'm always rolling properly.
+      i've always been good at my job.
+```
+
+and this failure to understand Amy's perspective on Centaurs:
+
+```
+amy: all centaurs are missing?
+kate: yeah.
+kris: some centaurs. barf.
+amy: centaurs is barf.
+kate: centaurs is barf.
+kris: would you ever read the book of centaurs?
+jerry: oh
+```
