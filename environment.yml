@@ -4,6 +4,6 @@ channels:
 dependencies:
   - pip
   - python=3.6
-  - tensorflow=1.12=mkl*
+  - tensorflow=1.12
   - pip:
     - gpt-2-simple
