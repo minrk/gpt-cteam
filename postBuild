@@ -4,6 +4,7 @@ set -ex
 
 echo '3e9387143b277e1c565724005aa2de41c465b21601169b9651099e737c68ea92  checkpoint/cteam/model-1000.meta' | shasum -c || (
   # re-checking-out git-lfs files
+  git lfs install
   rm -vf checkpoint/cteam/model*
   git checkout HEAD checkpoint
 )
