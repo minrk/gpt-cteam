@@ -63,7 +63,7 @@ kate: bite him on the nuts?
 kate: i don't even know how i feel about that.
 amy: bite his nuts.
 kate: i'm just gonna...
-i'm gonna enjoy that as a dead animal.
+    i'm gonna enjoy that as a dead animal.
 amy: that's better than decapitating a mouse.
 kate: yeah.
 amy: elfs.
@@ -78,10 +78,10 @@ kate: yeah yeah better.
 kris: yeah i kill them individually.
 (laughter)
 jerry: and then they become a kind
-of clump of flesh and bones.
+    of clump of flesh and bones.
 kate: okay. fine. that's fine.
-i've identified the mice as being
-partially eaten but also still in the chicken coop
+    i've identified the mice as being
+    partially eaten but also still in the chicken coop
 jerry: and it's so happening.
 ```
 
@@ -126,4 +126,33 @@ jerry: this is a stone dead.
        no, this is a bizarre
        cavern that has just been ploughed into
        by one hand.
+```
+
+```
+jerry: instead of
+    d&d you're thinking about--
+    you're thinking about how
+    you can best impress this bear.
+jerry: the most profound sense of
+    how you can best impress this cat.
+kris: "i'd probably kill that."
+jerry: the most profound sense of
+        how you can best impress this bear.
+kate: (whispers) what?
+jerry: inside here.
+jerry: in the middle of the mine.
+amy: passageway.
+jerry: exactly. so this is
+    just your third attempt, right?
+kate: passageway.
+jerry: no, it's like this.
+kate: passageway.
+jerry: this is just...
+    this is just something i do every day.
+kate: passageway.
+jerry: every day.
+kate: passageway. i cast silence on this.
+amy: wolf's whistle.
+ryan: goo goo gooo.
+jerry: no, no
 ```
